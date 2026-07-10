@@ -1,18 +1,14 @@
 # Woofer
-Premium tool with full clean added
 
-#Compatible motherboards
+Premium tool with full cleaning support.
 
-•MSI-Yes
+## Compatible Motherboards
 
-•ASRock-Yes
+* MSI – Supported
+* ASRock – Supported
+* ASUS – Not supported
+* NZXT – Untested
+* EVGA – Supported
+* Gigabyte – Not supported
+* Biostar – Supported
 
-•Asus-No
-
-•NZXT-Untested
-
-•EVGA-Yes
-
-•Gigabyte-No
-
-•Biostar-Yes
